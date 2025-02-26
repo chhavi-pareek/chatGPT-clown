@@ -4,5 +4,8 @@
   theme: {
     extend: {},
   },
+  safelist: [
+    "sm:w-[calc(100%-250px)]"
+  ],
   plugins: [],
 }
